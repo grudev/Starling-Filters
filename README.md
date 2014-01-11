@@ -54,3 +54,9 @@ http://onebyonedesign.com/flash/starling/posterize/
 
 CrosshatchFilter (Only works on square, power-of-two textures):
 http://onebyonedesign.com/flash/starling/crosshatch/
+
+VCRFilter:
+http://onebyonedesign.com/flash/starling/vcr/
+
+RectMaskFilter:
+http://onebyonedesign.com/flash/starling/rectmask/
