@@ -40,7 +40,7 @@ package starling.filters
         frc ft1, ft0
 		sub ft0, ft0, ft1
 		mul ft0, ft0, fc0
-		tex oc, ft0, fs0<2d, clamp, linear, mipnone>
+		tex oc, ft0, fs0<2d, clamp, nearest, mipnone>
 	]]>
 		
 		
